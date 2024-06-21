@@ -1,0 +1,129 @@
+header{
+    background-color:#EBD5C1;
+    height: 5%;
+    width: auto;
+}
+
+.logo{
+    width: 10%;
+    margin-left: 45%;
+}
+/*continer menu*/
+.container1{
+    width: 15vw;
+    height: 100vw;
+    background-color: #D6AB7F;
+}
+
+.menu{
+    text-align: center;
+    font-size: 200%;
+    text-decoration: none;
+    color: white;
+    padding-top: 100%;
+}
+
+/*container productos*/
+.container2{
+    background-color:#fccb96;
+    width: 100%;
+    
+}
+
+/*barra desplazamenti*/
+.categoria {
+    width: 200px;
+    overflow-y: scroll;
+}
+
+.cuadro {
+    padding: 30%;
+}
+
+
+main{
+    display: flex;
+    background-color: #DAC5AF;
+}
+
+/* Estilos para cada tarjeta */
+
+
+.card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    margin-left: 60%;
+    margin-top: 20%;
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 15px;
+}
+
+.card-info {
+    width: 150%;
+}
+
+.card-info h3 {
+    font-size: 50%;
+    margin: 10px 0;
+    color: #333;
+}
+
+.card-info p {
+    font-size: 50%;
+    color: #555;
+    margin: 5px 0;
+}
+
+.card-info .cantidad {
+    display: block;
+    font-size: 50%;
+    color: #888;
+    margin-top: 10px;
+}
+
+.card-info .total-producto {
+    display: block;
+    font-size: 50%;
+    color: #333;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+/* Estilos para los totales */
+.totals {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 50%;
+    color: #333;
+}
+
+.totals p {
+    margin: 10px 0;
+    font-weight: bold;
+}
+/*boton compra producto*/
+button{
+    background-color: #CDB1AB;
+    border-color: transparent;
+}
+.color{
+    align-items: #864B3F ;
+}
+.flecha{
+    width: auto;
+    height: auto;
+}
