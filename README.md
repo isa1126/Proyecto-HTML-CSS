@@ -28,22 +28,22 @@ Mi Proyecto de comercio electrónico se especializa en la venta y distribución 
 ### Estructura de proyecto
 -abrigos.html, camiseta.html, carrito-vacio.html, carrito1.html, carrito2.html, carrito3.html, carrito4.html, carrito5.html, carrito6.html, formulario-pago.html, index.html, pantalones.html, producto1-abri.html, producto2.html, producto3.html -carrito-vacio.css, carrito.css, formulario-pago.css, index.css, productos.css -README.md -logo.png
 
-###  Instalaciones
-Deberas ejecutar este comando para descargar`` golpesudo apt instalar aplicación`` `
-
 ### Navegación
-## Sección 
+   ### Sección 
 - Página principal
 - Páginas de abrigo, camiseta, pantalones
 - Carrito
 
 *Página principal*
+
 Se mostrará en la parte izquierda el menú de navegación, además de algunos productos. Los primeros productos de cada línea contienen información de estos.
 
 *Páginas de abrigo, camiseta, pantalones*
+
 Aquí encontrarás las diferentes prendas junto con su precio. Las primeras prendas de cada página, si les das clic al botón de más información, mostrarán más información de estas (solo hay un producto por página que tiene esta opción).
 
 *Carrito*
+
 Aquí encontrarás información predeterminada de compra de algunos productos los botones funcionan, todo debe envia a algo o te mostrará algo.
 
 
