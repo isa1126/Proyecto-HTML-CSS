@@ -6,11 +6,12 @@ Mi Proyecto de comercio electrónico se especializa en la venta y distribución 
 ## Tabla de contenidos
 | Indice | Titulo |
 |-- | -- |
-| 1 | Sección 1 |
-| 2 | Sección 2 |
-| 3 | Sección 3 |
-| 4 | Sección 4 |
-| 5 | Sección 5 |
+| 1 | Caracteristicas|
+| 2 | Tecnología utilizada|
+| 3 | Estructura de proyecto |
+| 4 | Instalaciones|
+| 5 | Navegación |
+| 6 |Hecho por |
 
 ###  Caracteristicas
 -Todos los productos.
